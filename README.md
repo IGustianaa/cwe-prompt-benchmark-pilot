@@ -94,9 +94,16 @@ directory.
 
 `data/vuldetectbench_task1_code.jsonl` is VulDetectBench `task1/test`, from
 https://github.com/Sweetaroo/VulDetectBench , distributed under that
-repository's licence. Upstream terms govern; check them before redistributing.
-The `test` split is included so the audit above can be re-run and checked — it
-is **not** the split prompts are to be developed against.
+repository's licence (MIT, Copyright (c) 2024 Lang Gao). Upstream terms govern;
+check them before redistributing. The `test` split is included so the audit
+above can be re-run and checked — it is **not** the split prompts are to be
+developed against.
+
+## License
+
+MIT, see `LICENSE`. Original code, protocol and audit files here:
+Copyright (c) 2026 IGustianaa. The bundled VulDetectBench data remains
+Copyright (c) 2024 Lang Gao under the same MIT terms.
 
 ## Manuscript
 
