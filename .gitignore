@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
 .venv/
-out/
+runs/
+scores.json
+*.log
